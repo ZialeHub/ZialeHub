@@ -1,4 +1,5 @@
-[![vnaud's 42 stats](https://badge42.vercel.app/api/v2/cl59k5sip004909muemwgz69i/stats?cursusId=21&coalitionId=219)](https://github.com/JaeSeoKim/badge42)  <details>
+[![vnaud's 42 stats](https://badge42.vercel.app/api/v2/cl59k5sip004909muemwgz69i/stats?cursusId=21&coalitionId=219)](https://github.com/JaeSeoKim/badge42)
+<details>
 <summary><h3>Click to expand project list!</h3></summary>
 
 | Project | Result | \| | Project | Result |
