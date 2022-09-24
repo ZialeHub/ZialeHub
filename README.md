@@ -9,6 +9,6 @@
 | **Pipex:** | [![vnaud's 42 pipex Score](https://badge42.vercel.app/api/v2/cl59k5sip004909muemwgz69i/project/2569244)](https://github.com/JaeSeoKim/badge42) | **\|** | **So_long:** | [![vnaud's 42 so_long Score](https://badge42.vercel.app/api/v2/cl59k5sip004909muemwgz69i/project/2576266)](https://github.com/JaeSeoKim/badge42) |
 | **Push_Swap:** | [![vnaud's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl59k5sip004909muemwgz69i/project/2569152)](https://github.com/JaeSeoKim/badge42) | **\|** | **Minishell:** | [![vnaud's 42 minishell Score](https://badge42.vercel.app/api/v2/cl59k5sip004909muemwgz69i/project/2593607)](https://github.com/JaeSeoKim/badge42) |
 | **Philosophers:** | [![vnaud's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl59k5sip004909muemwgz69i/project/2593606)](https://github.com/JaeSeoKim/badge42) | **\|** | NetPractice | [![vnaud's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl59k5sip004909muemwgz69i/project/2660555)](https://github.com/JaeSeoKim/badge42) |
-| CPP Module 00 | [![vnaud's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl59k5sip004909muemwgz69i/project/2660557)](https://github.com/JaeSeoKim/badge42) | **\|** |  |  |
+| CPP Module 08 | [![vnaud's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl59k5sip004909muemwgz69i/project/2740666)](https://github.com/JaeSeoKim/badge42) | **\|** |  |  |
 
 </details>
